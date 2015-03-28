@@ -1,0 +1,109 @@
+.clock {
+    background-color: black;
+    height: 390px;
+    width: 355px;
+    text-align: justify;
+    padding: 20px;
+}
+
+div {
+    margin-top: 10px;
+}
+
+h1 {
+    color: gray;
+    display: inline;
+    font-family: 'Roboto', sans-serif;
+}
+
+.itis {
+    margin-left: 20px;
+}
+
+.half {
+    margin-left: 45px;
+}
+ .ten {
+     margin-left: 45px;
+ }
+
+.quarter {
+    margin-left: 20px;
+}
+
+.twenty {
+    margin-left: 30px;
+}
+
+.five {
+    margin-left: 20px;
+}
+
+.minutes {
+    margin-left: 26px;
+}
+
+.to {
+    margin-left: 26px;
+}
+
+.past {
+    margin-left: 20px;
+}
+
+.one {
+    margin-left: 30px;
+}
+
+.three {
+    margin-left: 30px;
+}
+
+.two {
+    margin-left: 20px;
+}
+
+.four {
+    margin-left: 43px;
+}
+
+.five2 {
+    margin-left: 43px;
+}
+
+.six {
+    margin-left: 20px;
+}
+
+.seven {
+    margin-left: 32px;
+}
+
+.eight {
+    margin-left: 32px;
+}
+
+.nine {
+    margin-left: 20px;
+}
+
+.ten2 {
+    margin-left: 30px;
+}
+
+.eleven {
+    margin-left: 30px;
+}
+
+.twelve {
+    margin-left: 20px;
+}
+
+.oclock {
+    margin-left: 60px;
+}
+
+.glow {
+    color: yellow;
+}
+
