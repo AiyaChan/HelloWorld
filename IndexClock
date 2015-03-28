@@ -2,7 +2,7 @@
 <html>
     <head>
     	<title>Clock of Doom</title>
-       	<link rel='stylesheet' href='CssClock.css'/>
+       	<link rel='stylesheet' href='CSSClock.css'/>
        	<link href='http://fonts.googleapis.com/css?family=Roboto:900' rel='stylesheet' type='text/css'>
 	
 	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
