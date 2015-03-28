@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	<title>Clock of Doom</title>
+       	<link rel='stylesheet' href='style.css'/>
+       	<link href='http://fonts.googleapis.com/css?family=Roboto:900' rel='stylesheet' type='text/css'>
+	
+	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+  
+   <script type='text/javascript' src='script.js'></script>
+	</head>
+	<body>
+        <div class="clock">
+        <div class="row1">
+            <h1 class = "itis">IT IS</h1>
+            <h1 class = "half">HALF</h1>
+            <h1 class = "ten">TEN</h1>
+        </div>
+        <div class="row2">
+            <h1 class = "quarter">QUARTER</h1>
+            <h1 class = "twenty">TWENTY</h1>
+        </div>
+        <div class="row3">
+            <h1 class = "five">FIVE</h1>
+            <h1 class = "minutes">MINUTES</h1>
+            <h1 class = "to">TO</h1>
+        </div>
+        <div class="row4">
+            <h1 class = "past">PAST</h1>
+            <h1 class = "one">ONE</h1>
+            <h1 class = "three">THREE</h1>
+        </div>
+        <div class="row5">
+            <h1 class = "two">TWO</h1>
+            <h1 class = "four">FOUR</h1>
+            <h1 class = "five2">FIVE</h1>
+        </div>
+        <div class="row6">
+            <h1 class = "six">SIX</h1>
+            <h1 class = "seven">SEVEN</h1>
+            <h1 class = "eight">EIGHT</h1>
+        </div>
+        <div class="row7">
+            <h1 class = "nine">NINE</h1>
+            <h1 class = "ten2">TEN</h1>
+            <h1 class = "eleven">ELEVEN</h1>
+        </div>
+        <div class="row8">
+            <h1 class = "twelve">TWELVE</h1>
+            <h1 class = "oclock">O'CLOCK</h1>
+        </div>
+        </div>
+	</body>
+</html>
