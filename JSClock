@@ -1,47 +1,9 @@
-$(document).ready(main) {
-var main = function clockTime() {
-    var time = new Date().getHours();
-    var glowElement;
-    if (time >= 1 && time < 2) {
-        glowElement = "1";
-    }
-    else if (time >= 2 && time < 3) {
-        glowElement = "2";
-    }
-    else if (time >= 3 && time < 4) {
-        glowElement = "3";
-    }
-    else if (time >= 4 && time < 5) {
-        glowElement = "4";
-    }
-    else if (time >= 5 && time < 6) {
-        glowElement = "5";
-    }
-    else if (time >= 6 && time < 7) {
-        glowElement = "6";
-    }
-    else if (time >= 7 && time < 8) {
-        glowElement = "7";
-    }
-    else if (time >= 8 && time < 9) {
-        glowElement = "8";
-    }
-    else if (time >= 9 && time < 10) {
-        glowElement = "9";
-    }
-    else if (time >= 10 && time < 11) {
-        glowElement = "10";
-    }
-    else if (time >= 11 && time < 12) {
-        glowElement = "11";
-    }
-    else {
-        glowElement = "12";
-    }
-    switch (glowElement) {
-        case "9":
-            $("nine").addClass("glow");
-        break;
-    }
-}
-)};
+$(document).ready(function() {
+   var d = new Date();
+   var hours = d.getHours();
+   var minutes = d.getMinutes();
+   var element = document.getElementsByClassName('hour' + hours)[0];
+   element.className = element.className + ' glow';
+   var element2 = document.getElementsByClassName('minutes' + minutes)[0];
+   element2.className = element2.className + ' glow';
+});
