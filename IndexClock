@@ -2,14 +2,14 @@
 <html>
     <head>
     	<title>Clock of Doom</title>
-       	<link rel='stylesheet' href='CSSClock.css'/>
+       	<link rel='stylesheet' href='style.css'/>
        	<link href='http://fonts.googleapis.com/css?family=Roboto:900' rel='stylesheet' type='text/css'>
 	
 	 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     
   <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
   
-   <script type='text/javascript' src='JSClock.js'></script>
+   <script type='text/javascript' src='script.js'></script>
 	</head>
 	<body>
         <div class="clock">
@@ -29,26 +29,26 @@
         </div>
         <div class="row4">
             <h1 class = "past">PAST</h1>
-            <h1 class = "one">ONE</h1>
-            <h1 class = "three">THREE</h1>
+            <h1 class = "hour1 hour13">ONE</h1>
+            <h1 class = "hour3 hour15">THREE</h1>
         </div>
         <div class="row5">
-            <h1 class = "two">TWO</h1>
-            <h1 class = "four">FOUR</h1>
-            <h1 class = "five2">FIVE</h1>
+            <h1 class = "hour2 hour14">TWO</h1>
+            <h1 class = "hour4 hour16">FOUR</h1>
+            <h1 class = "hour5 hour17">FIVE</h1>
         </div>
         <div class="row6">
-            <h1 class = "six">SIX</h1>
-            <h1 class = "seven">SEVEN</h1>
-            <h1 class = "eight">EIGHT</h1>
+            <h1 class = "hour6 hour18">SIX</h1>
+            <h1 class = "hour7 hour19">SEVEN</h1>
+            <h1 class = "hour8 hour20">EIGHT</h1>
         </div>
         <div class="row7">
-            <h1 class = "nine">NINE</h1>
-            <h1 class = "ten2">TEN</h1>
-            <h1 class = "eleven">ELEVEN</h1>
+            <h1 class = "hour9 hour21">NINE</h1>
+            <h1 class = "hour10 hour22">TEN</h1>
+            <h1 class = "hour11 hour23">ELEVEN</h1>
         </div>
         <div class="row8">
-            <h1 class = "twelve">TWELVE</h1>
+            <h1 class = "hour12 hour24">TWELVE</h1>
             <h1 class = "oclock">O'CLOCK</h1>
         </div>
         </div>
