@@ -18,12 +18,13 @@ h1 {
 
 .itis {
     margin-left: 20px;
+    color: yellow;
 }
 
 .half {
     margin-left: 45px;
 }
- .ten {
+.ten {
      margin-left: 45px;
  }
 
@@ -51,51 +52,51 @@ h1 {
     margin-left: 20px;
 }
 
-.one {
+.hour1 {
     margin-left: 30px;
 }
 
-.three {
+.hour3 {
     margin-left: 30px;
 }
 
-.two {
+.hour2 {
     margin-left: 20px;
 }
 
-.four {
+.hour4 {
     margin-left: 43px;
 }
 
-.five2 {
+.hour5 {
     margin-left: 43px;
 }
 
-.six {
+.hour6 {
     margin-left: 20px;
 }
 
-.seven {
+.hour7 {
     margin-left: 32px;
 }
 
-.eight {
+.hour8 {
     margin-left: 32px;
 }
 
-.nine {
+.hour9 {
     margin-left: 20px;
 }
 
-.ten2 {
+.hour10 {
     margin-left: 30px;
 }
 
-.eleven {
+.hour11 {
     margin-left: 30px;
 }
 
-.twelve {
+.hour12 {
     margin-left: 20px;
 }
 
